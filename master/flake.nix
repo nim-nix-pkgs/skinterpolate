@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-skinterpolate-master.flake = false;
+  inputs.src-skinterpolate-master.ref   = "refs/heads/master";
   inputs.src-skinterpolate-master.owner = "Skrylar";
-  inputs.src-skinterpolate-master.ref   = "master";
   inputs.src-skinterpolate-master.repo  = "skInterpolate";
   inputs.src-skinterpolate-master.type  = "github";
   
