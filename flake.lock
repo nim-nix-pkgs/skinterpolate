@@ -219,11 +219,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776129,
-        "narHash": "sha256-OoumdQDAQ3Ed+TAbmGdLLydpDLLGufR23uGGfjvZLQ4=",
+        "lastModified": 1669431381,
+        "narHash": "sha256-F2gyqD5C/9kyBw3WL/itBsel27TJixbHgWn6c7Xr5Go=",
         "owner": "nim-nix-pkgs",
         "repo": "skinterpolate",
-        "rev": "9919267814fa8bc32a725b1faefb3682d616e953",
+        "rev": "71f8522f06702f34acc47c683376c2577e0319df",
         "type": "github"
       },
       "original": {
